@@ -1,0 +1,8 @@
+15:56:42.606 [main] INFO  HomePage - Page successfully displayed
+19:55:51.733 [main] INFO  validateTitle - Driver is initialised
+19:55:55.723 [main] INFO  validateTitle - Navigated to Home Page
+19:55:55.848 [main] INFO  validateTitle - Successfully validated Text message
+11:18:31.291 [main] INFO  validateTitle - Driver is initialised
+11:18:35.138 [main] INFO  validateTitle - Navigated to Home Page
+11:18:35.309 [main] INFO  validateTitle - Successfully validated Text message
+12:14:14.934 [main] INFO  validateTitle - Driver is initialised
